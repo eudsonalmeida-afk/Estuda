@@ -2,17 +2,26 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <meta name="theme-color" content="#0f172a">
-  <title>Cronograma de Estudos</title>
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Estuda">
+  <meta name="description" content="Planejamento de estudos e revisões espaçadas, salvo no seu aparelho.">
+  <title>Estuda</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div class="app-shell">
     <aside class="sidebar" id="sidebar">
-      <div class="brand"><span>📚</span><div><strong>Cronograma</strong><small>Ciência da Aprendizagem</small></div></div>
+      <div class="brand"><span>📚</span><div><strong>Estuda</strong><small>Ciência da Aprendizagem</small></div></div>
       <nav id="nav"></nav>
       <div class="sidebar-actions">
+        <button class="ghost install-action" id="installBtn" hidden>▣ Instalar aplicativo</button>
         <button class="ghost" id="exportBtn">⬇ Exportar dados</button>
         <label class="ghost file-label">⬆ Importar dados<input type="file" id="importInput" accept="application/json"></label>
         <button class="ghost danger" id="resetBtn">↺ Restaurar exemplo</button>
@@ -27,6 +36,8 @@
       <div id="content" class="content"></div>
     </main>
   </div>
+  <div class="menu-backdrop" id="menuBackdrop"></div>
+  <nav class="bottom-nav" id="bottomNav" aria-label="Navegação principal"></nav>
   <div id="toast" class="toast" role="status"></div>
   <script src="app.js"></script>
 </body>

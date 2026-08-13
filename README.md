@@ -1,6 +1,6 @@
-# Cronograma de Estudos
+# Estuda
 
-Aplicativo web inspirado na planilha **Cronograma de Estudos — Planilha Automática**. Funciona sem servidor, salva os dados no navegador e pode ser publicado gratuitamente no GitHub Pages.
+**Estuda** é um aplicativo web inspirado na planilha **Cronograma de Estudos — Planilha Automática**. Funciona sem servidor, salva os dados no navegador e pode ser publicado gratuitamente no GitHub Pages.
 
 ## Funcionalidades
 
@@ -11,6 +11,8 @@ Aplicativo web inspirado na planilha **Cronograma de Estudos — Planilha Autom�
 - Alertas de revisões vencidas e próximas
 - Importação e exportação de backup em JSON
 - Layout responsivo para computador e celular
+- Instalação como PWA, com ícone e abertura sem abas do navegador
+- Funcionamento offline após o primeiro acesso
 
 ## Como usar
 
@@ -24,6 +26,13 @@ Abra `index.html` no navegador. Não é necessário instalar nada.
 4. Selecione a branch `main`, pasta `/ (root)`, e clique em **Save**.
 
 O endereço público aparecerá nessa mesma tela após a publicação.
+
+## Instalar no celular
+
+- **Android:** abra o link no Chrome, toque no menu e escolha **Instalar aplicativo** ou use o botão mostrado no menu lateral.
+- **iPhone/iPad:** abra no Safari, toque em **Compartilhar** e depois em **Adicionar à Tela de Início**.
+
+Depois de instalado, o Estuda abre como aplicativo, sem a barra e as abas comuns do navegador. O primeiro acesso precisa ser feito com internet; depois, o app também abre offline.
 
 ## Privacidade
 
