@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0f172a">
+  <title>Cronograma de Estudos</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand"><span>📚</span><div><strong>Cronograma</strong><small>Ciência da Aprendizagem</small></div></div>
+      <nav id="nav"></nav>
+      <div class="sidebar-actions">
+        <button class="ghost" id="exportBtn">⬇ Exportar dados</button>
+        <label class="ghost file-label">⬆ Importar dados<input type="file" id="importInput" accept="application/json"></label>
+        <button class="ghost danger" id="resetBtn">↺ Restaurar exemplo</button>
+      </div>
+    </aside>
+    <main>
+      <header class="topbar">
+        <button class="menu-btn" id="menuBtn" aria-label="Abrir menu">☰</button>
+        <div><h1 id="pageTitle"></h1><p id="pageSubtitle"></p></div>
+        <div class="save-state" id="saveState">✓ Salvo</div>
+      </header>
+      <div id="content" class="content"></div>
+    </main>
+  </div>
+  <div id="toast" class="toast" role="status"></div>
+  <script src="app.js"></script>
+</body>
+</html>
