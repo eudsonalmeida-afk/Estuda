@@ -119,3 +119,10 @@ recuperar 3 continuidades + 3 mudanças sem consulta nas revisões posteriores.
 - Detalhamento interno das sessões foi auditado contra o edital.
 - Foram explicitados: organização didática; sala de aula como espaço de aprendizagem; fundamento epistemológico do fazer docente; planejamento de curso/unidade/aula; bases empíricas/metodológicas/epistemológicas das teorias; psicologia do desenvolvimento biopsicossocial; cinco temas contemporâneos; BNCC; formação/pesquisa/ética docente; marcos legais de Educação Integral; DCRC e equidade.
 - Adicionado mapa recolhível de cobertura de Educação no cronograma.
+
+## Atualização v11 — blocos realocados incorporados
+
+Os antigos cartões separados de “Bloco realocado de Bio → ...” foram removidos.
+O conteúdo, tempo, questões e técnicas desses reforços foram incorporados às sessões já existentes
+das respectivas disciplinas/tópicos, reduzindo poluição visual. As sessões de cada semana também
+foram ordenadas cronologicamente por data.
