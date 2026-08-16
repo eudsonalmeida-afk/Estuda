@@ -94,3 +94,28 @@ O app mantém apenas metas **semanais** de questões. O motor adaptativo usa a m
 - Semana 14–20/09 passou a disponibilidade reduzida, com meta operacional de 150Q; sexta/sábado sem estudo formal.
 - Simulado de 19/09 foi remanejado para domingo 20/09, junto com PNE 2014 condensado e Bio em manutenção.
 - A viagem não penaliza o motor adaptativo.
+
+## Atualização v8 — Administração Pública detalhada
+
+O cronograma de Administração foi revisado contra o edital e distribuído em 13 pontos:
+1. conceitos e princípios; 2. reformas administrativas; 3. modelos; 4. Constituição/servidores;
+5. Lei 9.784/1999; 6. organização (órgãos, fundos, entidades, Direta/Indireta);
+7. controle administrativo e legislativo; 8. seis poderes administrativos;
+9. PNE 2026–2036; 10. Modelo de Gestão do Ceará; 11. Guia de Modelagem 2ª ed./jul. 2021;
+12. Código de Ética e Conduta; 13. Estatuto dos Servidores do Ceará.
+
+As sessões agora informam os subtemas concretos a estudar e critérios de saída, em vez de rótulos genéricos.
+
+## Atualização v9 — PNE atual em comparação histórica
+
+O bloco do PNE 2026–2036 foi detalhado para exigir comparação explícita com os PNEs 2001 e 2014.
+A sequência agora é: compreender o PNE atual por si só → preencher tabela 2001 × 2014 × 2026 →
+identificar continuidades, mudanças de prioridade, reformulações, ampliações/reduções e similaridades →
+recuperar 3 continuidades + 3 mudanças sem consulta nas revisões posteriores.
+
+## Atualização v10 — auditoria de Educação Brasileira
+
+- Mantida a distribuição original de semanas e carga horária.
+- Detalhamento interno das sessões foi auditado contra o edital.
+- Foram explicitados: organização didática; sala de aula como espaço de aprendizagem; fundamento epistemológico do fazer docente; planejamento de curso/unidade/aula; bases empíricas/metodológicas/epistemológicas das teorias; psicologia do desenvolvimento biopsicossocial; cinco temas contemporâneos; BNCC; formação/pesquisa/ética docente; marcos legais de Educação Integral; DCRC e equidade.
+- Adicionado mapa recolhível de cobertura de Educação no cronograma.
